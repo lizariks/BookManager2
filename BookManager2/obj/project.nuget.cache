@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5/2KBJ3gQQk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\liza\\RiderProjects\\BookManager2\\BookManager2\\BookManager2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\liza\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.10\\microsoft.aspnetcore.openapi.9.0.10.nupkg.sha512",
+    "C:\\Users\\liza\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\liza\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\9.0.10\\microsoft.netcore.app.host.linux-x64.9.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

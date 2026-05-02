@@ -1,0 +1,9 @@
+C:\Users\liza\RiderProjects\BookManager2\BookManager2\bin\Release\net9.0\linux-x64\publish\BookManager2
+C:\Users\liza\RiderProjects\BookManager2\BookManager2\bin\Release\net9.0\linux-x64\publish\appsettings.Development.json
+C:\Users\liza\RiderProjects\BookManager2\BookManager2\bin\Release\net9.0\linux-x64\publish\appsettings.json
+C:\Users\liza\RiderProjects\BookManager2\BookManager2\bin\Release\net9.0\linux-x64\publish\BookManager2.dll
+C:\Users\liza\RiderProjects\BookManager2\BookManager2\bin\Release\net9.0\linux-x64\publish\BookManager2.deps.json
+C:\Users\liza\RiderProjects\BookManager2\BookManager2\bin\Release\net9.0\linux-x64\publish\BookManager2.runtimeconfig.json
+C:\Users\liza\RiderProjects\BookManager2\BookManager2\bin\Release\net9.0\linux-x64\publish\BookManager2.pdb
+C:\Users\liza\RiderProjects\BookManager2\BookManager2\bin\Release\net9.0\linux-x64\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\liza\RiderProjects\BookManager2\BookManager2\bin\Release\net9.0\linux-x64\publish\Microsoft.OpenApi.dll
