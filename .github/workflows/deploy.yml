@@ -71,13 +71,13 @@ jobs:
         uses: aws-actions/amazon-ecs-render-task-definition@v1
         with:
           task-definition: deployments/ecs-task-definition.json
-          container-name: bookmanager
+          container-name: bookmanager2
           image: ${{ secrets.REPOSITORY }}:latest
 
       - name: Deploy to Amazon ECS
         uses: aws-actions/amazon-ecs-deploy-task-definition@v1
         with:
           task-definition: ${{ steps.task-def.outputs.task-definition }}
-          service: bookmanager-service
+          service: bookmanager2-service-dxrjl3ln
           cluster: dev-cluster
           wait-for-service-stability: true
